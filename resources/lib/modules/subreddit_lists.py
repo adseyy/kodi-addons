@@ -1,6 +1,7 @@
 
 streaming_subreddits = [
 {'name': 'Adams Links', 'url': 'AdamsSparkle'},
+{'name': 'Soccer Streams', 'url': 'footballconnection'},
 {'name': 'MMA Streams', 'url': 'MMAStreams'},
 {'name': 'Tennis Streams', 'url': 'TennisStreams'},
 {'name': 'Boxing Streams', 'url': 'BoxingStreams'},
